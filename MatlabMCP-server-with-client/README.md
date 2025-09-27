@@ -112,3 +112,6 @@ Query: Hello!. Please use matlab to run code: LEO;
 Response: The MATLAB code `LEO;` executed successfully. The output indicates that a file has been saved to the `..\output` directory.
 Time taken to process query: 6.28 seconds
 ```
+
+![命令模型调用LEO.m文件](example.png)
+
